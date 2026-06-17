@@ -1,4 +1,6 @@
 # Recipe-Sharing-Hub
-Front-End Testing with Playwright
+Tools: Playwright, JavaScript
 
-Commands: npm install or npm i npm run server npm start
+Designed and executed end-to-end automated tests.
+Validated UI functionality and user interactions.
+Automated positive and negative test scenarios.
